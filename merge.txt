@@ -1,0 +1,9 @@
+hello 
+managed ad: MNGM-AD.abn.com
+management ad username:admin
+pw:Managementad#1234
+
+mngmserver:administrator
+	pw:F67WrW&H;rCT3zmwkVF(r)@=?u@gnr5l
+
+workspace:SLiad+D6HKM9
